@@ -1,0 +1,51 @@
+.our-videos {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 1000px;
+    /* background-color: pink; */
+    margin-top: 50px;
+}
+
+.our-videos h2 {
+    font-size: 48px;
+    font-family: Inter;
+    font-weight: 700;
+    color: #250061;
+   text-align: center;
+}
+
+.box-container {
+    height: auto;
+    width: 1000px;
+    margin-top: 70px;
+    /* background-color: chartreuse; */
+}
+
+.videos-box {
+    height: auto;
+    width: 1000px;
+    /* background-color: aqua; */
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.you-tube {
+    height: 400px;
+    width: 48%;
+    /* background-color: #E0E8FA; */
+    border-radius: 16px;
+}
+
+.you-tube iframe{
+    width: 100%;
+    height: 330px;
+    border-radius: 15px;
+}
+.you-tube h3{
+    color: #250061;
+    font-size: 20px;
+    font-weight: 900;
+}
